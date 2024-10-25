@@ -668,7 +668,19 @@ MonoBehaviour:
   debugLog: 1
   OnCollect:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1590607041}
+        m_TargetAssemblyTypeName: Score, Assembly-CSharp
+        m_MethodName: AddScore
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!135 &100666253
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -5163,7 +5175,19 @@ MonoBehaviour:
   debugLog: 1
   OnCollect:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1590607041}
+        m_TargetAssemblyTypeName: Score, Assembly-CSharp
+        m_MethodName: AddScore
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!135 &739473703
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -5748,7 +5772,19 @@ MonoBehaviour:
   debugLog: 1
   OnCollect:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1590607041}
+        m_TargetAssemblyTypeName: Score, Assembly-CSharp
+        m_MethodName: AddScore
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!135 &814913361
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -12336,7 +12372,19 @@ MonoBehaviour:
   debugLog: 1
   OnCollect:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1590607041}
+        m_TargetAssemblyTypeName: Score, Assembly-CSharp
+        m_MethodName: AddScore
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!135 &1022533526
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -15438,7 +15486,19 @@ MonoBehaviour:
   debugLog: 1
   OnCollect:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1590607041}
+        m_TargetAssemblyTypeName: Score, Assembly-CSharp
+        m_MethodName: AddScore
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!135 &1451154043
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -16381,6 +16441,24 @@ Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 46711fe082b1e774b9f38b4a7223f565, type: 3}
   m_PrefabInstance: {fileID: 652606977}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1590607040 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2803621062559896606, guid: af6cf821d3e59a04ab7f22d4019056e6, type: 3}
+  m_PrefabInstance: {fileID: 1383360211100548957}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1590607041
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1590607040}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c733cb9cb564cd4d990d809a1a50b3c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  score: 0
 --- !u!1001 &1598168421
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -17689,7 +17767,19 @@ MonoBehaviour:
   debugLog: 1
   OnCollect:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1590607041}
+        m_TargetAssemblyTypeName: Score, Assembly-CSharp
+        m_MethodName: AddScore
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!135 &1794377482
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -19144,7 +19234,19 @@ MonoBehaviour:
   debugLog: 1
   OnCollect:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1590607041}
+        m_TargetAssemblyTypeName: Score, Assembly-CSharp
+        m_MethodName: AddScore
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!135 &1917159381
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -20354,7 +20456,19 @@ MonoBehaviour:
   debugLog: 1
   OnCollect:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1590607041}
+        m_TargetAssemblyTypeName: Score, Assembly-CSharp
+        m_MethodName: AddScore
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!135 &2075355721
 SphereCollider:
   m_ObjectHideFlags: 0
@@ -21404,7 +21518,10 @@ PrefabInstance:
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 2803621062559896606, guid: af6cf821d3e59a04ab7f22d4019056e6, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1590607041}
   m_SourcePrefab: {fileID: 100100000, guid: af6cf821d3e59a04ab7f22d4019056e6, type: 3}
 --- !u!1001 &5756543708668606665
 PrefabInstance:
