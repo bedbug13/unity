@@ -5,12 +5,27 @@ using UnityEngine;
 public class Score : MonoBehaviour
 {
     public int score = 0;
+    public float timer = 10f;
 
-    // Start is called before the first frame update
+    // Addscore increments the value of score by 1.
     public void AddScore()
     {
-        score++;
-        print(score);
+        if (timer > 0f)
+        {
+            score++;
+            print("Score: " + score);
+        }
+        else
+        {
+            print("Out of time!");
+        }
     }
+
+    // Start is called before the first frame update
+    void Update()
+    {
+        timer -= Time.deltaTime;
+    }
+    
 
 }
