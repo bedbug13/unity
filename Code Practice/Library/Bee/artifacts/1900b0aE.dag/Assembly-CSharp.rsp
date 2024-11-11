@@ -357,6 +357,7 @@
 "Assets/Conditionals.cs"
 "Assets/Functions.cs"
 "Assets/NestedConditionals.cs"
+"Assets/WhileLoops.cs"
 -langversion:9.0
 
 /deterministic
